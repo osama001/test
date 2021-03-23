@@ -1,4 +1,4 @@
-package abstractareas;;
+package abstractareas;
 
 public class Circle extends Diagram2{
     Circle(double a){
